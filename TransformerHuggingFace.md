@@ -56,3 +56,13 @@ predicted_class = torch.argmax(probabilities, dim=1).item()
 
 **Langkah 8: Hasil Output**
 Sekarang Anda memiliki hasil klasifikasi teks yang dihasilkan oleh model Transformer.
+
+
+
+
+
+Transformer adalah sebuah arsitektur dalam Natural Language Processing (NLP) yang memungkinkan model untuk memahami dan menghasilkan teks dengan cara yang sangat efisien. Transformer memanfaatkan self-attention mechanism untuk memproses teks dan dapat digunakan dalam berbagai tugas NLP seperti terjemahan bahasa, analisis sentimen, dan pengenalan entitas bernama.
+
+Hugging Face adalah sebuah perusahaan dan komunitas yang mengembangkan alat dan model untuk NLP. Mereka dikenal karena menyediakan perpustakaan sumber terbuka yang populer, seperti Transformers, yang memungkinkan pengembang untuk dengan mudah mengakses dan menggunakan model Transformer yang telah dilatih. Hugging Face juga mengembangkan model NLP berkualitas tinggi dan menyediakan berbagai alat dan sumber daya untuk mendukung pengembangan aplikasi NLP.
+
+Jadi, dalam konteks NLP, Transformer adalah arsitektur yang mendasari banyak model yang digunakan dalam pemrosesan bahasa alami, sementara Hugging Face adalah komunitas dan perusahaan yang mengembangkan alat dan model NLP yang memudahkan penggunaan dan pengembangan aplikasi NLP dengan menggunakan Transformer.
